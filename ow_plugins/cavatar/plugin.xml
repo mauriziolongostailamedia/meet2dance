@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>Console Avatar</name>
+	<key>cavatar</key>
+	<description>Show Avatar in Console</description>
+    <author>N. Chaykovsky</author>
+    <authorEmail>support@cgdirect.ru</authorEmail>
+	<authorUrl>http://cgdirect.ru</authorUrl>
+	<developerKey>9cb69d5e6c4d2c8382bd37848e5458ec</developerKey>
+    <build>0.9.1</build>
+    <copyright>(C) 2015 All rights reserved.</copyright>
+	<license>http://cgdirect.ru</license>
+    <licenseUrl>http://cgdirect.ru</licenseUrl>
+</plugin>

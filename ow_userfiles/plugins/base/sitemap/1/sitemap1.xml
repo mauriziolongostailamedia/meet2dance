@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/mobile-version</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/mobile-version" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/mobile-version?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/mobile-version?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/mobile-version?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/mobile-version" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/mobile-version?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/mobile-version?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/mobile-version?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/mobile-version" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/mobile-version?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/mobile-version?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/join</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/join" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/join?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/join?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/join?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/join" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/join?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/join?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/join?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/join" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/join?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/join?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/sign-in</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/sign-in" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/sign-in?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/sign-in?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/sign-in?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/sign-in" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/sign-in?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/sign-in?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/sign-in?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/sign-in" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/sign-in?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/sign-in?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/forgot-password</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/forgot-password" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/forgot-password?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/forgot-password?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/forgot-password?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/forgot-password" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/forgot-password?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/forgot-password?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/forgot-password?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/forgot-password" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/forgot-password?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/forgot-password?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/terms-of-use</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/terms-of-use" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/terms-of-use?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/terms-of-use?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/terms-of-use?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/terms-of-use" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/terms-of-use?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/terms-of-use?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/terms-of-use?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/terms-of-use" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/terms-of-use?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/terms-of-use?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/privacy-policy</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/privacy-policy" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/privacy-policy?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/privacy-policy?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/privacy-policy?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/privacy-policy" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/privacy-policy?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/privacy-policy?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+        <loc>http://dance2meet.com/privacy-policy?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/privacy-policy" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/privacy-policy?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/privacy-policy?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/latest</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/latest" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/latest?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/latest?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/latest?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/latest" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/latest?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/latest?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/latest?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/latest" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/latest?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/latest?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/featured</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/featured" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/featured?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/featured?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/featured?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/featured" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/featured?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/featured?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/featured?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/featured" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/featured?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/featured?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/online</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/online" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/online?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/online?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/online?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/online" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/online?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/online?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/online?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/online" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/online?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/online?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/search</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/search" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/search?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/search?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/search?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/search" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/search?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/search?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/users/search?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/users/search" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/users/search?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/users/search?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/user/admin</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/user/admin" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/user/admin?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/user/admin?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/user/admin?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/user/admin" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/user/admin?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/user/admin?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/user/admin?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/user/admin" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/user/admin?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/user/admin?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/latest</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/latest" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/latest?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/latest?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/latest?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/latest" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/latest?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/latest?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/latest?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/latest" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/latest?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/latest?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/toprated</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/toprated" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/toprated?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/toprated?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/toprated?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/toprated" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/toprated?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/toprated?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/toprated?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/toprated" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/toprated?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/toprated?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/most_discussed</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/most_discussed" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/most_discussed?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/most_discussed?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/most_discussed?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/most_discussed" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/most_discussed?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/most_discussed?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/most_discussed?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/most_discussed" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/most_discussed?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/most_discussed?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/tagged</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/tagged" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/tagged?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/tagged?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/tagged?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/tagged" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/tagged?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/tagged?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/photo/viewlist/tagged?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/photo/viewlist/tagged" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/photo/viewlist/tagged?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/photo/viewlist/tagged?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video/viewlist/latest</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video/viewlist/latest" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video/viewlist/latest?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video/viewlist/latest?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video/viewlist/latest?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video/viewlist/latest" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video/viewlist/latest?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video/viewlist/latest?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video/viewlist/latest?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video/viewlist/latest" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video/viewlist/latest?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video/viewlist/latest?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video/viewlist/toprated</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video/viewlist/toprated" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video/viewlist/toprated?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video/viewlist/toprated?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video/viewlist/toprated?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video/viewlist/toprated" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video/viewlist/toprated?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video/viewlist/toprated?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video/viewlist/toprated?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video/viewlist/toprated" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video/viewlist/toprated?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video/viewlist/toprated?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video/viewlist/tagged</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video/viewlist/tagged" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video/viewlist/tagged?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video/viewlist/tagged?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video/viewlist/tagged?language_id=3</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video/viewlist/tagged" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video/viewlist/tagged?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video/viewlist/tagged?language_id=4" />
+            </url>
+    <url>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <loc>http://dance2meet.com/video/viewlist/tagged?language_id=4</loc>
+                <xhtml:link rel="alternate" hreflang="en" href="http://dance2meet.com/video/viewlist/tagged" />
+                <xhtml:link rel="alternate" hreflang="de" href="http://dance2meet.com/video/viewlist/tagged?language_id=3" />
+                <xhtml:link rel="alternate" hreflang="it" href="http://dance2meet.com/video/viewlist/tagged?language_id=4" />
+            </url>
+</urlset>

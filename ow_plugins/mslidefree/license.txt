@@ -1,0 +1,52 @@
+/*
+ * ***********************************************************************************
+ *  Mchd.Ysf Common License                                                          *
+ *  December 2016                                                                    *
+ *                                                                                   *
+ * (c) copyright 2016 Mchd.Ysf All Rights Reserved                                   *
+ *                                                                                   *
+ * Email: mchd.youssef@gmail.com                                                     *
+ * oxwall profile: https://developers.oxwall.com/user/youssefm                       *
+ * Forum Support: http://www.oxwall.org/forum/                                       *
+ *                                                                                   *
+ *                                                                                   *
+ *************************************************************************************
+ * This Software is furnished under a private commercial license and may             *
+ * not be used or copied outside of and in accordance with the                       *
+ * terms of such license.                                                            *
+ *                                                                                   *
+ * You may not remove, alter,  modify, or deface this copyright notice               *
+ * in any way. This software or any other copies thereof may not be                  *
+ * provided or otherwise made available to any other person without                  *
+ * express written consent from its author listed above.  No title to                *
+ * and/or ownership of the  module is hereby transferred.  The author                *
+ * listed above in this document retains full ownership and rights to                *
+ * thereof.                                                                          *
+ *                                                                                   *
+ * Purchasing the software does not constitute ownership.  It only                   *
+ * allows you access to use the software and nothing more.                           *
+ *                                                                                   *
+ * You may not reverse  engineer, decompile, defeat  license  encryption             *
+ * mechanisms, or  disassemble this modules  product or modules  product             *
+ * license. Mchd.Ysf or its parent partners reserve the right                        *
+ * to terminate this license at their discression upon any violation of              *
+ * this license agreement.                                                           *
+ *                                                                                   *
+ * By use of this software you agree not only to abide by this license but           *
+ * also that if such action is taken and your license should be revoked              *
+ * then you also agree to return to us or destroy all copies of software             *
+ * upon termination of the license immediately and without further                   *
+ * judicial action.                                                                  *
+ *                                                                                   *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND   *
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,  BUT  NOT  LIMITED TO, THE IMPLIED  *
+ * WARRANTIES  OF  MERCHANTABILITY   AND  FITNESS  FOR  A  PARTICULAR  PURPOSE  ARE  *
+ * DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR  *
+ * ANY DIRECT, INDIRECT, INCIDENTAL,  SPECIAL,  EXEMPLARY, OR CONSEQUENTIAL DAMAGES  *
+ * (INCLUDING, BUT NOT LIMITED TO,  PROCUREMENT  OF  SUBSTITUTE  GOODS OR SERVICES,  *
+ * LOSS OF USE, DATA, OR PROFITS, OR BUSINESS INTERRUPTION)  HOWEVER  CAUSED AND ON  *
+ * ANY  THEORY  OF  LIABILITY,  WHETHER  IN  CONTRACT,  STRICT  LIABILITY,  OR TORT  *
+ * (INCLUDING NEGLIGENCE OR OTHERWISE)  ARISING  IN  ANY WAY OUT OF THE USE OF THIS  *
+ * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                      *
+ *************************************************************************************
+ */

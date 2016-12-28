@@ -1,0 +1,16 @@
+<div class="ow_center">
+ <div id="ms-carousel-container">
+  
+   <button id="ms-prev">
+     <i class="fa fa-arrow-circle-left"><h2><</h2></i>
+   </button>
+   <button id="ms-next">
+     <i class="fa fa-arrow-circle-right"><h2>></h2></i>
+   </button>
+   {foreach from=$ra item='data'}
+     <div>
+       <a href="{$data.url}"><img src="{$data.avatar}" alt="#" /></a>
+     </div>
+   {/foreach }   
+ </div>
+</div>

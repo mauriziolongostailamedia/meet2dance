@@ -1,0 +1,139 @@
+#ms-carousel-container {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  margin: 0;
+  overflow: hidden;
+  
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  
+  -webkit-perspective: 600px;
+  -moz-perspective: 600px;
+  -ms-perspective: 600px;
+  perspective: 600px;
+}
+
+#ms-prev, 
+#ms-next {
+  position: absolute;
+  z-index: 99999;
+  top: 50%;
+  height: 30px;
+  font-size: 1.25em;
+  color: rgb(100, 100, 100);
+  margin: -37px 0 0 0;
+  background: rgb(50, 50, 50);
+  border: none;
+  -webkit-transition: .25s ease-in-out;
+  -moz-transition: .25s ease-in-out;
+  -o-transition: .25s ease-in-out;
+  transition: .25s ease-in-out;
+  padding: 0 4px;
+  outline: none;
+}
+
+#ms-prev:hover,
+#ms-next:hover {
+  padding: 0 8px;
+  color: white;
+  cursor: pointer;
+}
+
+#ms-prev:active,
+#ms-next:active {
+  background: white;
+  color: rgb(50, 50, 50);
+}
+
+#ms-prev {
+  left: 0;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+#ms-next {
+  right: 0;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+#ms-carousel-container div {
+  position: absolute;
+  top: 50%;
+  width: 200px;
+  height: 200px;
+  margin: -120px 0 0 -100px;
+  background: rgb(50, 50, 50);
+  background: -webkit-linear-gradient(160deg, rgb(25, 25, 25), rgb(70, 70, 70));
+  background: -moz-linear-gradient(160deg, rgb(25, 25, 25), rgb(70, 70, 70));
+  background: -o-linear-gradient(160deg, rgb(25, 25, 25), rgb(70, 70, 70));
+  background: linear-gradient(160deg, rgb(25, 25, 25), rgb(70, 70, 70));
+  -webkit-transition: .45s ease-in-out;
+  -moz-transition: .45s ease-in-out;
+  -o-transition: .45s ease-in-out;
+  transition: .45s ease-in-out;
+}
+
+#ms-carousel-container div img {
+  display: block;
+  width: 90%;
+  margin: 10px auto 3px;
+}
+
+#ms-carousel-container div h1 {
+  color: white;
+  font-family: "Century Gothic";
+  font-size: 1.05em;
+  font-weight: 300;
+  text-align: center;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+#ms-carousel-container div p {
+  color: white;
+  font-family: "Century Gothic";
+  font-size: .9em;
+  font-weight: 300;
+  margin: 5px 0 0 0;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.previous-item {
+  left: 22%;
+  opacity: .4;
+  -webkit-transform: rotateY(65deg);
+  transform: rotateY(65deg);
+}
+
+.displayed-item {
+  left: 50%;
+  opacity: 1;
+  -webkit-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+}
+
+.next-item {
+  left: 78%;
+  opacity: .4;
+  -webkit-transform: rotateY(-65deg);
+  transform: rotateY(-65deg);
+}
+
+.inline-previous {
+  left: -25%;
+  opacity: .1;
+  -webkit-transform: rotateY(90deg);
+  transform: rotateY(90deg);
+}
+
+.inline-next {
+  left: 125%;
+  opacity: .1;
+  -webkit-transform: rotateY(-90deg);
+  transform: rotateY(-90deg);
+}

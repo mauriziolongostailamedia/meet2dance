@@ -1,0 +1,54 @@
+QUESTIONS 1590, 2014-07-09:
+
+Enhancements:
+- Oxwall 1.7
+- Url is changing when question opened in popup
+- Other minor enhancements
+
+Bug fixes
+- Deleted user error
+- Other minor fixes
+
+
+QUESTIONS 490, 2013-06-17:
+
+Enhancements:
+- Oxwall 1.5+ full support
+- Other minor enhancements
+
+Bug fixes
+- Error with questions from groups on dashboard
+- The Question tab in News Feed disappears when user click it ( conflict with External NoFollow )
+- Other minor fixes
+
+
+QUESTIONS 225, 2012-06-25:
+
+Enhancements:
+- Oxwall 1.4.0 full support
+- admin now can disable/enable pop ups via plugin's configuration page
+- Other minor enhancements
+
+Bug fixes
+- Moderators can delete questions and options ( fixed now )
+- Other minor fixes
+
+
+QUESTIONS 200, 2012-05-13:
+
+Enhancements:
+- Email Notifications plugin support: notifications about answers and comments for a question;
+- Privacy plugin support: Users can select who can view their questions
+- Followers counter added to a question. Now users can see how many users follow a question
+- New authorization action added: "Add options to questions of other users"
+- Users can change question list order now
+- Questions widget added to "Avaliable widgets" section on Index page
+- When users answers, comments or follows a question this action displays on his profile's newsfeed
+- Other minor enhancements
+
+
+Bug fixes:
+- Moderators can deleted questions and options
+- Users follows questions created by him
+- Answer counter refreshes when user deletes an option with answers
+- Other minor fixes

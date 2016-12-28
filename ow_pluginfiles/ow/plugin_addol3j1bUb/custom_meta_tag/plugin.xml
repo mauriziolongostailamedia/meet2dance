@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>Custom Meta Tag</name>
+	<key>custommetatag</key>
+	<description>
+		Custom Meta Tag is a plugin auto change meta tag  , it is the best way for show  photo when share a link of photo of oxwall  system into  social network (Facebook , google plus , twitter ) 
+	</description>
+    <author>Bkascript</author>
+    <authorEmail>l3th2nh@gmail.com</authorEmail>
+	<authorUrl>http://bkascript.com/</authorUrl>
+	<developerKey>5633414bf1ff30c4dd08033f2a77ec2d</developerKey>
+    <build>10000</build>
+    <copyright>(c) 2016 bkascript.com All rights reserved.</copyright>
+	<license>The BSD License</license>
+    <licenseUrl>http://bkascript.com#license</licenseUrl>
+</plugin>

@@ -1,0 +1,199 @@
+<div class="ow_page_wrap">
+	<div class="ow_menu_fullpage">
+		<div class="ow_menu_fullpage_wrap">{$main_menu}</div>
+	</div>
+
+	<div class="ow_site_panel clearfix">
+			<div class="ow_nav_btn"></div>
+			<div class="ow_console_right">
+				{component class='BASE_CMP_Console'}
+			</div>
+			<div ></div>
+	</div>
+	<div class="ow_header">
+        <div class="ow_header_pic"></div>
+	</div>
+	{*if isset($imageControlValues.headerImage.src)}
+	<div class="ow_header">
+            <img class="ow_header_img" src="{$imageControlValues.headerImage.src}" />
+            <div class="ow_header_pic"><img class="ow_header_img" src="{$themeImagesUrl}header.jpg" /></div>
+	</div>
+	{/if*}
+	<div class="ow_page_padding">
+		<div class="ow_page_container">
+			<div class="ow_canvas">
+				<div class="ow_page ow_bg_color clearfix">
+				<div class="ow_menu_wrap">{component class='BASE_CMP_MainMenu' responsive=true}</div>
+					<h1 class="ow_stdmargin {$heading_icon_class}">{$heading}</h1>
+	<div class="ow_content_wrap">
+				<div class="ow_content">
+					{add_content key='base.add_page_top_content'}
+					{$content}
+					{add_content key='base.add_page_bottom_content'}
+				</div>
+				<div class="ow_sidebar">
+					
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="ow_footer">
+
+	<div class="ow_canvas">
+		<div class="ow_page clearfix">
+			{$bottom_menu}
+			<div class="ow_copyright ow_stdmargin">{text key='base+copyright'}</div>
+            <div class="ow_center">{$bottomPoweredByLink}</div>
+		</div>
+	</div>
+		</div> <div class="ow_logo_wrap">
+          {if isset($imageControlValues.logoImage.src)}
+              <a href="{$siteUrl}" class="ow_logo_img"></a>
+          {else}
+              <a href="{$siteUrl}" class="ow_logo_img"></a>
+          {/if}
+</div>
+	</div> 
+</div>    
+{decorator name='floatbox'}
+<script type="text/javascript">
+	$(window).scroll(function() {
+	var $menuwrappos = $('.ow_menu_wrap').offset().top;
+    if ($(this).scrollTop() > $menuwrappos) { 
+        $('.ow_page_wrap').addClass('ow_hidden_menu');
+    }
+    else {
+    	$('.ow_page_wrap').removeClass('ow_hidden_menu');
+    }
+	});
+	$('.ow_nav_btn').click(function() {
+    	if ($('body').hasClass('ow_menu_active')) {
+    		$('body').removeClass('ow_menu_active');
+    	}
+    	else {
+    		$('body').addClass('ow_menu_active');
+    	}
+    })
+    $('.ow_menu_fullpage_wrap a').click(function() {
+    	$('body').removeClass('ow_menu_active');
+    })
+</script>
+
+<script>
+$(function() {
+
+	
+	var sticky_navigation_offset_top = $('.ow_menu_wrap').offset().top;
+	
+	
+	var sticky_navigation = function(){
+		var scroll_top = $(window).scrollTop(); 
+		
+		
+		if (scroll_top > sticky_navigation_offset_top) { 
+			$('.ow_menu_wrap').css({ 'position': 'fixed', 'top':0, 'left':0, 'z-index':98, 'margin-top':43, 'background-color':'rgba (0, 0, 0, 0.6)',  });
+			
+
+
+		} else {
+			$('.ow_menu_wrap').css({ 'position': 'relative', 'margin-top':'0','background-color':'rgba (0, 0, 0, 0.6)','z-index':1 }); 
+			
+
+		}   
+	};
+	
+	
+	sticky_navigation();
+	
+	
+	$(window).scroll(function() {
+		 sticky_navigation();
+	});
+	
+	
+	$('a[href="#"]').click(function(event){ 
+		event.preventDefault(); 
+	});
+	
+});
+</script>
+
+<script>
+(function($) {
+
+
+
+  $.fn.visible = function(partial) {
+    
+      var $t            = $(this),
+          $w            = $(window),
+          viewTop       = $w.scrollTop(),
+          viewBottom    = viewTop + $w.height(),
+          _top          = $t.offset().top,
+          _bottom       = _top + $t.height(),
+          compareTop    = partial === true ? _bottom : _top,
+          compareBottom = partial === true ? _top : _bottom;
+    
+    return ((compareBottom <= viewBottom) && (compareTop >= viewTop));
+
+  };
+    
+})(jQuery);
+
+</script>
+
+
+
+<script>
+
+$(window).scroll(function(event) {
+  
+  $(".ow_newsfeed_avatar").each(function(i, el) {
+    var el = $(el);
+    if (el.visible(false)) {
+      el.addClass("bounce-in"); 
+    } 
+  });
+  
+});
+</script>
+
+<script>
+
+$(window).scroll(function(event) {
+  
+  $(".ow_canvas .ow_newsfeed_body").each(function(i, el) {
+    var el = $(el);
+    if (el.visible(false)) {
+      el.addClass("bounce-in"); 
+    } 
+  });
+  
+});
+</script>
+<script>
+var win = $(window);
+var allMods = $(".ow_canvas .ow_newsfeed_body, .ow_newsfeed_avatar");
+
+// Already visible modules
+allMods.each(function(i, el) {
+  var el = $(el);
+  if (el.visible(true)) {
+    el.addClass("already-visible"); 
+  } 
+});
+
+win.scroll(function(event) {
+  
+  allMods.each(function(i, el) {
+    var el = $(el);
+    if (el.visible(true)) {
+      el.addClass("bounce-in"); 
+    } 
+  });
+  
+});
+
+</script>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<name>Members Slideshow</name>
+	<key>mslidefree</key>
+	<description>Display all members in a slideshow</description>
+    <author>Mchd.Ysf</author>
+    <authorEmail>mchd.youssef@gmail.com</authorEmail>
+	<authorUrl>http://</authorUrl>
+	<developerKey>09a23f19dbc8f5eb3b40fc189b710859</developerKey>
+    <build>1</build>
+    <copyright>(C) 2016 Mchd.YSf All rights reserved</copyright>
+    <license>license.txt</license>
+    <licenseUrl>http://mchdyoussef.wixsite.com/mysite/license</licenseUrl>
+</plugin>
